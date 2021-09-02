@@ -7,12 +7,10 @@
 
 ### Let's Connect!!
 
-<p align="left">
 - <a href="https://irishtechie.cloud" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-irishtechie.cloud-blue?style=flat&logo=google-chrome"></a>
 - <a href="https://www.linkedin.com/in/karlcooke/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@karlcooke-blue?style=flat&logo=linkedin"></a>
 - <a href="https://twitter.com/karl_itnerd" target="_blank"><img alt="Twitter" src="https://img.shields.io/twitter/follow/karl_itnerd?style=social"></a>
 - <a href="https://twitter.com/irish_techie" target="_blank"><img alt="Twitter" src="https://img.shields.io/twitter/follow/irish_techie?style=social"></a>
-</p>
 
 <!--
 **irishtechie/irishtechie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
