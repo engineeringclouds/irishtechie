@@ -2,9 +2,10 @@
 
 ---
 
-### Aboout Me
+### About Me
 
 
+---
 
 ### Community
 
