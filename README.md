@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there I'm [Karl Cooke](https://www.linkedin.com/in/karlcooke/){:target="_blank"}👋
+
+
+### My GitHub Stats!!
+
+![Karl Cooke GitHub Stats](https://github-readme-stats.vercel.app/api?username=irishtechie&show_icons=true&count_private=true)](https://github.com/irishtechie)
 
 <!--
 **irishtechie/irishtechie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
