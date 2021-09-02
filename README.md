@@ -1,4 +1,4 @@
-### Hi there I'm [Karl Cooke](https://www.linkedin.com/in/karlcooke/){:target="_blank"}👋
+### Hi there I'm [Karl Cooke](https://www.linkedin.com/in/karlcooke/)👋
 
 
 ### My GitHub Stats!!
