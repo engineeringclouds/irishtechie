@@ -4,12 +4,13 @@
 
 ### About Me
 
+Husband, Dad, Trekkie, Microsoft #Azure MVP, and Azure Architect at Avanade UK.
 
 ---
 
 ### Community
 
-
+Blogging at [irishtechie.cloud](http://irishtechie.cloud). Co-organiser at [Limerick DotNet & Azure User Group (LDNA)](https://www.meetup.com/Limerick-DotNet/), Co-Founder and Co-organiser at [#AzureCloudNative](https://www.meetup.com/azure-cloud-native/)
 
 ---
 
@@ -24,7 +25,6 @@
 - <a href="https://irishtechie.cloud" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-irishtechie.cloud-blue?style=flat&logo=google-chrome"></a>
 - <a href="https://www.linkedin.com/in/karlcooke/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@karlcooke-blue?style=flat&logo=linkedin"></a>
 - <a href="https://twitter.com/karl_itnerd" target="_blank"><img alt="Twitter" src="https://img.shields.io/twitter/follow/Karl_ITNerd?style=social"></a>
-- <a href="https://twitter.com/irish_techie" target="_blank"><img alt="Twitter" src="https://img.shields.io/twitter/follow/Irish_Techie?style=social"></a>
 
 ---
 <!--
